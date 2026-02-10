@@ -1,8 +1,9 @@
-👩🏻‍💻 Mariana Cid
-Sou Mariana Weishaupt Cid
+#👩🏻‍💻 Mariana Cid
 
-🎓 Estudante de Sistemas de Informação | FIAP
-💻 Tecnologias de interesse
+###Sou Mariana Weishaupt Cid
+
+###🎓 `Estudante de Sistemas de Informação | FIAP`
+###💻 Tecnologias de interesse
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img width="12"/>
@@ -23,7 +24,7 @@ Sou Mariana Weishaupt Cid
 
 
 
-🚀 Objetivo
+###🚀 Objetivo
 Busco constantemente novos conhecimentos por meio de estudos, projetos práticos e cursos, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na área de tecnologia e desenvolvimento de software.
 <br>
 
