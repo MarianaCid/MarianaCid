@@ -1,5 +1,6 @@
-### Sou Murillo Moya Martins  
-Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey Bay Academy.
+# Mariana Cid
+### Sou Mariana Weishaupt Cid  
+
 
 ### 🎓 `Estudante de Sistemas de Informação | FIAP`  
 ### 💻 Tecnologias de interesse
@@ -23,7 +24,7 @@ Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey 
 
 
 
-###🚀 Objetivo
+### 🚀 Objetivo
 Busco constantemente novos conhecimentos por meio de estudos, projetos práticos e cursos, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na área de tecnologia e desenvolvimento de software.
 <br>
 
