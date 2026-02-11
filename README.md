@@ -1,11 +1,14 @@
 # 👩🏻‍💻 Mariana Cid  
-## Mariana Weishaupt Cid  
+
+## Sou Mariana Weishaupt Cid
+
+
 
 🎓 **Sistemas de Informação | FIAP**  
 💡 Apaixonada por tecnologia, inovação e por transformar ideias em soluções reais  
 
 
-## 🚀 Sobre mim
+## Sobre mim
 Sou estudante de Sistemas de Informação com foco em desenvolvimento de software, Inteligência Artificial e projetos práticos.  
 Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem lógica, criatividade e impacto real.
 
@@ -32,6 +35,6 @@ Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" height="40" alt="AI"/>
 </div>
 
-## 🎯 Objetivo
+## Objetivo
 Crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, participando de projetos desafiadores e construindo soluções que façam a diferença.
 
