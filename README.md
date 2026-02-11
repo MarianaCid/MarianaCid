@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Mariana Cid  
-###  Mariana Weishaupt Cid  
+## Mariana Weishaupt Cid  
 
 🎓 **Sistemas de Informação | FIAP**  
 💡 Apaixonada por tecnologia, inovação e por transformar ideias em soluções reais  
