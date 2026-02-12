@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Mariana Cid  
 
-## Sou Mariana Weishaupt Cid
+## `Mariana Weishaupt Cid`
 
 
 
