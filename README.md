@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Mariana Weishaupt Cid  
+# Mariana Weishaupt Cid  
 
 
 🎓 **Sistemas de Informação | FIAP**  
