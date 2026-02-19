@@ -1,4 +1,4 @@
-#  `Mariana Weishaupt Cid`  
+#  `Mariana Weishaupt cid`  
 
 
 🎓 **Sistemas de Informação | FIAP**  
