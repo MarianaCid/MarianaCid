@@ -42,6 +42,6 @@ Crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, part
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarianaCid&layout=compact&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
 </div>
 
-![Snake animation](https://github.com/MarianaCid/MarianaCid/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/MarianaCid/MarianaCid/output/snake.svg" alt="Snake animation" />
 
 
