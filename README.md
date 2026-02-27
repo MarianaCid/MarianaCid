@@ -35,4 +35,9 @@ Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem
 ## Objetivo
 Crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, participando de projetos desafiadores e construindo soluções que façam a diferença.
 
+### 📊 Estatísticas
 
+<div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarianaCid&show_icons=true&locale=pt-br&bg_color=transparent&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarianaCid&layout=compact&locale=pt-br&bg_color=transparent&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+</div>
