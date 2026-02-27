@@ -44,4 +44,4 @@ Crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, part
 
 ![Snake animation](https://github.com/MarianaCid/MarianaCid/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MarianaCid&repo=MarianaCid&theme=react)](https://github.com/MarianaCid/MarianaCid)
+
