@@ -35,3 +35,4 @@ Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem
 ## Objetivo
 Crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, participando de projetos desafiadores e construindo soluções que façam a diferença.
 
+
