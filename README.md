@@ -27,8 +27,6 @@ Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
-  <img width="12"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" height="40" alt="AI"/>
 </div>
 
