@@ -1,15 +1,7 @@
-#  `Mariana Weishaupt Cid`  
+<h1 align="center">Mariana Weishaupt Cid</h1>
+<h3 align="center" style="color:#4CAF50"> 🎓 Sistemas de Informação | FIAP</h3>
 
-
-🎓 **Sistemas de Informação | FIAP**  
-💡 Apaixonada por tecnologia, inovação e por transformar ideias em soluções reais  
-
-
-## Sobre mim
-Sou estudante de Sistemas de Informação com foco em desenvolvimento de software, Inteligência Artificial e projetos práticos.  
-Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem lógica, criatividade e impacto real.
-
-
+---
 ## 💻 Tecnologias & Áreas de Interesse
 <div style="display: inline-block; gap: 10px;">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:5px;" />
@@ -22,13 +14,21 @@ Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem
   <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" style="margin:5px;" />
 </div>
 
-## Objetivo
-Crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, participando de projetos desafiadores e construindo soluções que façam a diferença.
+
+
+## ✨ About Me
+<div align="center">
+Sou estudante de **Sistemas de Informação** com foco em desenvolvimento de software, Inteligência Artificial e projetos práticos.  
+Meu objetivo é crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, participando de projetos desafiadores e construindo soluções que façam a diferença.  
+Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem lógica, criatividade e impacto real.
+
+</div>
+
 
 ## 📊 Estatísticas
 <div>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarianaCid&show_icons=true&locale=pt-br&bg_color=A5D8FF&title_color=532B52&text_color=12516E&icon_color=532B52" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarianaCid&layout=compact&locale=pt-br&bg_color=A5D8FF&title_color=532B52&text_color=12516E&icon_color=532B52" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarianaCid&show_icons=true&locale=pt-br&bg_color=1E2643&title_color=9B518B&text_color=1AAAB6&icon_color=9B518B" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarianaCid&layout=compact&locale=pt-br&bg_color=1E2643&title_color=9B518B&text_color=1AAAB6&icon_color=9B518B" />
 </div>
 
 <img src="https://raw.githubusercontent.com/MarianaCid/MarianaCid/output/snake.svg" alt="Animação da cobrinha" />
