@@ -1,19 +1,18 @@
 <h1 align="center">Mariana Weishaupt Cid</h1>
-<h3 align="center" style="color:#4CAF50"> 🎓 Sistemas de Informação | FIAP</h3>
+<h3 align="center"> 🎓 Sistemas de Informação | FIAP</h3>
+<br><br>
 
----
-## 💻 Tecnologias & Áreas de Interesse
-<div style="display: inline-block; gap: 10px;">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:5px;" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:5px;" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin:5px;" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="margin:5px;" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin:5px;" />
-  <img align="center" alt="IA" src="https://img.shields.io/badge/IA-FF6F61?style=for-the-badge&logo=openai&logoColor=white" style="margin:5px;" />
-  <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin:5px;" />
-  <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" style="margin:5px;" />
+<h2>💻 Tecnologias & Áreas de Interesse</h2>
+<div align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="IA" src="https://img.shields.io/badge/IA-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
-
 
 
 ## ✨ About Me
@@ -21,15 +20,17 @@
 Sou estudante de **Sistemas de Informação** com foco em desenvolvimento de software, Inteligência Artificial e projetos práticos.  
 Meu objetivo é crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, participando de projetos desafiadores e construindo soluções que façam a diferença.  
 Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem lógica, criatividade e impacto real.
-
 </div>
 
 
 ## 📊 Estatísticas
-<div>
+
+<div align="center">
+
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarianaCid&show_icons=true&locale=pt-br&bg_color=1E2643&title_color=9B518B&text_color=1AAAB6&icon_color=9B518B" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarianaCid&layout=compact&locale=pt-br&bg_color=1E2643&title_color=9B518B&text_color=1AAAB6&icon_color=9B518B" />
+
+
+  <img src="https://raw.githubusercontent.com/MarianaCid/MarianaCid/output/snake.svg" alt="Animação da cobrinha" />
+
 </div>
-
-<img src="https://raw.githubusercontent.com/MarianaCid/MarianaCid/output/snake.svg" alt="Animação da cobrinha" />
-
