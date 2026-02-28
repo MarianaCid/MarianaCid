@@ -27,7 +27,7 @@ Crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, part
 
 ## 📊 Estatísticas
 <div>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarianaCid&show_icons=true&locale=pt-br&bg_color=000000&title_color=F13366&text_color=BBD1FF&icon_color=9A006A" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarianaCid&show_icons=true&locale=pt-br&bg_color=B8DDFF&title_color=532B52&text_color=12516E&icon_color=003CC5" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarianaCid&layout=compact&locale=pt-br&bg_color=000000&title_color=F13366&text_color=BBD1FF&icon_color=9A006A" />
 </div>
 
