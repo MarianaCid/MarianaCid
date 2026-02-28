@@ -1,8 +1,10 @@
+**Seja bem-vindo(a) ao meu portfólio no GitHub! Aqui compartilho meus projetos, aprendizados e minha evolução na tecnologia...**
+<br><br>
 <h1 align="center">Mariana Weishaupt Cid</h1>
 <h3 align="center"> 🎓 Sistemas de Informação | FIAP</h3>
 <br><br>
 
-<h2>💻 Tecnologias & Áreas de Interesse</h2>
+## ***💻 Tech Stack***
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,15 +17,16 @@
 </div>
 
 
-## ✨ About Me
+## ***✨ About Me***
 <div align="center">
-Sou estudante de **Sistemas de Informação** com foco em desenvolvimento de software, Inteligência Artificial e projetos práticos.  
+Sou estudante de <b>Sistemas de Informação</b> com foco em desenvolvimento de software, Inteligência Artificial e projetos práticos. 
+  
 Meu objetivo é crescer como desenvolvedora, aprofundando meus conhecimentos em tecnologia, participando de projetos desafiadores e construindo soluções que façam a diferença.  
 Gosto de aprender criando, testar ideias novas e desenvolver soluções que unem lógica, criatividade e impacto real.
 </div>
 
 
-## 📊 Estatísticas
+## ***📊 Statistic***
 
 <div align="center">
 
